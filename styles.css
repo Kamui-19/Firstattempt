@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: pink;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.buttons {
+    margin: 20px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
+
+.yes-button {
+    background-color: green;
+    color: white;
+}
+
+.no-button {
+    background-color: red;
+    color: white;
+    position: absolute;
+}
+
+.gif_container {
+    margin-top: 20px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
